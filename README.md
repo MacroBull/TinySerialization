@@ -1,2 +1,0 @@
-# TinySerialization
-Learn STL
